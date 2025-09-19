@@ -1,0 +1,1 @@
+{"name": "83-you-are-to-build-a-custom-flas-firebase-030857", "spec": {"port": 8000, "containers": [{"image": "", "name": "83-you-are-to-build-a-custom-flas-firebase-030857", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
